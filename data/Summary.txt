@@ -1,0 +1,10 @@
+Content
+Every player available in FIFA 21
+100+ attributes
+URL of the scraped players
+Player positions, with the role in the club and in the national team
+Player attributes with statistics as Attacking, Skills, Defense, Mentality, GK Skills, etc.
+Player personal data like Nationality, Club, DateOfBirth, Wage, Salary, etc.
+
+Acknowledgements
+Data has been scraped from the publicly available website https://sofifa.com.
